@@ -3,7 +3,7 @@ import { createBottomTabNavigator } from "@react-navigation/bottom-tabs";
 import Sumatoria from "../screens/Sumatoria";
 import Resta from "../screens/Resta";
 import Multiplicacion from "../screens/Multiplicacion";
-import Division from "../../Division";
+import Division from "../screens/Division";
 import Factorial from "../screens/Factorial";
 
 const Tab=createBottomTabNavigator();
